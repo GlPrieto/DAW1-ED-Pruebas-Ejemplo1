@@ -2,4 +2,4 @@ language: java
 
 script:
   - ./gradlew build test jacocoTestReport
-  echo "Hola, soy Gloria"
+  - echo "Hola, soy Gloria"
